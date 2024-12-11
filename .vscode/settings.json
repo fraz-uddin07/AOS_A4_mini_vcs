@@ -1,0 +1,10 @@
+{
+    "makefile.configureOnOpen": true,
+    "files.associations": {
+        "*.tcc": "cpp",
+        "ostream": "cpp",
+        "fstream": "cpp",
+        "sstream": "cpp",
+        "iosfwd": "cpp"
+    }
+}
